@@ -1,0 +1,186 @@
+{
+  "main": {
+    "briefing": "I'm an Australia based quick learner. Accounting, data analysis and UI development are the areas I'm interested in.",
+    "website": "http://www.timbakerdev.com",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/grace-wu-109386167/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/FancyGrace",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "about": {
+    "name": "Grace Wu",
+    "profileImage": "profileimage.jpeg",
+    "occupations": [
+      "A UI Developer",
+      "An Accountant"
+    ],
+    "resumedownload": "http://timbakerdev.com",
+    "messages": [
+      {
+        "title": "About Me",
+        "content": "I'm an Australia based quick learner. Accounting, data analysis and UI development are the areas I'm interested in."
+      },
+      {
+        "title": "Reason to change",
+        "content": "Never stop learning and pursuing your interests and dreams."
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "category": "UI Development",
+        "degrees": [
+          {
+            "school": "Udemy",
+            "degree": "React - The Complete Guide",
+            "from": "Mar. 2020",
+            "to": "Jul. 2021",
+            "description": "I've learnt React basic knowledge, including Hooks, React Router, Redux. I've also built several projects by following the course."
+          },
+          {
+            "school": "Travel Website",
+            "degree": "React Website Tutorial - React JS Project Fully Responsive",
+            "from": "Mar. 2020",
+            "to": "May. 2020",
+            "description": "How to create a fully responsive React App by using Hooks and React Router"
+          }
+        ]
+      },
+      {
+        "category": "Accounting",
+        "degrees": [
+          {
+            "school": "University of Melbourne",
+            "degree": "Masters in Accounting",
+            "from": "Mar. 2018",
+            "to": "Nov. 2019",
+            "description": "(Placeholder)"
+          },
+          {
+            "school": "University of Melbourne",
+            "degree": "Bachelor in Food Science",
+            "from": "Sep. 2013",
+            "to": "Jun. 2017",
+            "description": "(Placeholder)"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "category": "UI Development",
+        "works": [
+          {
+            "company": "Online Resume",
+            "title": "React Developer",
+            "years": "Mar. 2021 - Jun. 2021",
+            "description": "(Placeholder)"
+          },
+          {
+            "company": "Travel Website",
+            "title": "React Developer",
+            "years": "Mar. 2020 - Jun. 2020",
+            "description": "(Placeholder)"
+          },
+          {
+            "company": "Expense Tracker Website",
+            "title": "React Developer",
+            "years": "Mar. 2021 - Jun. 2021",
+            "description": "(Placeholder)"
+          }
+        ]
+      },
+      {
+        "category": "Accounting",
+        "works": [
+          {
+            "company": "Lucretia Lighting",
+            "title": "Head of accounting",
+            "years": "Sep. 2019 - Present",
+            "description": "(Placeholder)"
+          },
+          {
+            "company": "Mitchell Wilson (Intern)",
+            "title": "Accounting/Payroll",
+            "years": "Aug. 2018 - Dec. 2018",
+            "description": "(Placeholder)"
+          }
+        ]
+      },
+      {
+        "category": "Student",
+        "works": [
+          {
+            "company": "University of Melbourne",
+            "title": "Student Ambassador",
+            "years": "Feb. 2019 - Nov. 2019",
+            "description": "Provided a guided tour of the main campus as a part of faculty orientation, building rapport with new students"
+          }
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "category": "UI Development",
+        "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+        "skills": [
+          "HTML5",
+          "CSS",
+          "JavaScript",
+          "Reactjs",
+          "Git",
+          "Hooks",
+          "Redux",
+          "Nodejs"
+        ]
+      },
+      {
+        "category": "Data Analysis",
+        "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+        "skills": [
+          "Tableau",
+          "MySQL"
+        ]
+      },
+      {
+        "category": "Accounting",
+        "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+        "skills": [
+          "Excel",
+          "Xero"
+        ]
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Online Resume",
+        "category": "A online resume project I've built by following a resume project with some changes to fit my needs.",
+        "image": "online-resume.jpg",
+        "url": ""
+      },
+      {
+        "title": "Travel Website",
+        "category": "The project I've built by following a tutorial.",
+        "image": "travel-website.jpg",
+        "url": ""
+      },
+      {
+        "title": "Expense Tracker",
+        "category": "The project I've built by following Udemy React full course.",
+        "image": "expense-tracker.jpg",
+        "url": ""
+      }
+    ]
+  }
+}
