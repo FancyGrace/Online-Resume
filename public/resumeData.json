@@ -167,7 +167,7 @@
         "title": "Online Resume",
         "category": "A online resume project I've built by following a resume project with some changes to fit my needs.",
         "image": "online-resume.jpg",
-        "url": ""
+        "url": "https://github.com/FancyGrace/Online-Resume"
       },
       {
         "title": "Travel Website",
@@ -179,7 +179,7 @@
         "title": "Expense Tracker",
         "category": "The project I've built by following Udemy React full course.",
         "image": "expense-tracker.jpg",
-        "url": ""
+        "url": "https://github.com/FancyGrace/Expense-Tracker"
       }
     ]
   }
