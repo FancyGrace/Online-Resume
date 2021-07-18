@@ -11,7 +11,7 @@ class Resume extends Component {
             var degrees = education.degrees.map((degree) =>
                 <div key={degree.school}>
                     <h3>{degree.school}</h3>
-                    <p className="info">{degree.degree} <span>&bull;</span><em className="date">{degree.from} - {degree.to}</em></p>
+                    <p className="info">{degree.degree} <><span>&bull;</span><em className="date">{degree.from} - {degree.to}</em></></p>
                     <p>{degree.description}</p></div>
             )
 
