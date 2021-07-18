@@ -19,7 +19,7 @@ class Resume extends Component {
                 tab: education.category,
                 degrees: degrees
             }
-        });
+        })
         var tabs = composedEducation.map((composedEducation) => composedEducation.tab)
         var panels = composedEducation.map((composedEducation) => composedEducation.degrees)
 
@@ -55,7 +55,7 @@ class Resume extends Component {
         var composedSkills = skills.map((skill) => {
             var message = <p>{skill.skillmessage}</p>
             var skills = skill.skills.map((skill) => <Skill data={skill} />)
-            var skillBlock = <div>{message, skills}</div>
+            var skillBlock = <div>{message}{skills}</div>
 
             return {
                 tab: skill.category,
