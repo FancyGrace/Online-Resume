@@ -1,17 +1,22 @@
 {
   "main": {
-    "briefing": "I'm an Australia based quick learner. Accounting, data analysis and UI development are the areas I'm interested in.",
-    "website": "http://www.timbakerdev.com",
+    "briefing": "I’m a Melbourne based UI Developer and Accountant. Never stop learning and connecting the dots would bring me a beautiful life. ",
+    "website": "https://fancygrace.netlify.app",
     "social": [
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/grace-wu-109386167/",
-        "className": "fa fa-linkedin"
+        "className": "fab fa-linkedin"
       },
       {
         "name": "github",
         "url": "https://github.com/FancyGrace",
-        "className": "fa fa-github"
+        "className": "fab fa-github"
+      },
+      {
+        "name": "demo",
+        "url": "https://drive.google.com/drive/folders/1KQ0F2tJTawU4X7r3WHbOLMKodIkC-vAe?usp=sharing",
+        "className": "fab fa-google-drive"
       }
     ]
   },
@@ -26,10 +31,14 @@
     "messages": [
       {
         "title": "About Me",
-        "content": "I'm an Australia based quick learner. Accounting, data analysis and UI development are the areas I'm interested in."
+        "content": "An enthusiastic and positive quick learner with two years of commercial accounting experience and one year of studying software development, including HTML5, CSS, JavaScript and React. Fully equipped with knowledge of UI development and management as well as Agile and Git. I am looking to secure a Junior Developer role in a market-leading company where I can bring value to the business and is willing to witness my growth."
       },
       {
-        "title": "Reason to change",
+        "title": "Motivation",
+        "content": "Two years of working as an accountant make me a detail-focused person, however, this is not all of me. Excellent problem-solving skills, embracing challenges, and being keen to learn new things are also my parts. Software development provides me a chance to work with a group of innovative and talented people, it also brings me an opportunity to demonstrate more personalities of mine and make it shine."
+      },
+      {
+        "title": "",
         "content": "Never stop learning and pursuing your interests and dreams."
       }
     ]
@@ -44,14 +53,21 @@
             "degree": "React - The Complete Guide",
             "from": "Mar. 2020",
             "to": "Jul. 2021",
-            "description": "I've learnt React basic knowledge, including Hooks, React Router, Redux. I've also built several projects by following the course."
+            "description": "By following the course, I’ve comprehended how to build a commercial React project from scratch in best practice with responsive layouts, reusable components and modern technologies, including React Router, Redux and Hooks. Debugging skills and communication between front-end and back-end are also essential abilities I’ve learned to start my UI development career. "
           },
           {
-            "school": "Travel Website",
-            "degree": "React Website Tutorial - React JS Project Fully Responsive",
+            "school": "Online Courses - Foundation",
+            "degree": "HTML5, CSS, JavaScript and RESTful API",
             "from": "Mar. 2020",
             "to": "May. 2020",
-            "description": "How to create a fully responsive React App by using Hooks and React Router"
+            "description": "The foundation of web development is HTML5, CSS, and JavaScript. They are the first stop of my journey. By watching online tutorials and turning the knowledge to practice, I’ve been knowing how a webpage is built and displayed to users. CSS and JavaScript surprised me by how powerful they are, and I believe that learning CSS and JavaScript will be a lifelong story. RESTful API is also an essential element I’ve learned to enrich and power the front-end. "
+          },
+          {
+            "school": "Online Courses - Software Development",
+            "degree": "Agile and Git",
+            "from": "Mar. 2020",
+            "to": "May. 2020",
+            "description": "Software development is teamwork, I’ve been learning version control system Git and software development management methodology Agile to be able to work in a modern environment with the Product Owner, Scrum Master, and the rest of the team."
           }
         ]
       },
@@ -60,17 +76,17 @@
         "degrees": [
           {
             "school": "University of Melbourne",
-            "degree": "Masters in Accounting",
-            "from": "Mar. 2018",
-            "to": "Nov. 2019",
-            "description": "(Placeholder)"
+            "degree": "Master of Management (Accounting)",
+            "from": "Feb. 2017",
+            "to": "Jul. 2019",
+            "description": "Relevant Coursework: Taxation, Auditing, Financial Accounting"
           },
           {
-            "school": "University of Melbourne",
-            "degree": "Bachelor in Food Science",
-            "from": "Sep. 2013",
-            "to": "Jun. 2017",
-            "description": "(Placeholder)"
+            "school": "Northeast Agricultural University",
+            "degree": "Bachelor of Engineering (Food Science)",
+            "from": "Sep. 2012",
+            "to": "Jun. 2016",
+            "description": "University scholarship in 2014, 2015, 2016 with GPA 85.6 (H1)"
           }
         ]
       }
@@ -80,22 +96,73 @@
         "category": "UI Development",
         "works": [
           {
-            "company": "Online Resume",
-            "title": "React Developer",
-            "years": "Mar. 2021 - Jun. 2021",
-            "description": "(Placeholder)"
+            "company": "Personal Resume",
+            "title": "VS Code | React JS, jQuery, JSON, Ajax",
+            "years": "",
+            "description": "",
+            "highlights": [
+              "Achieved no hardcoded data throughout the whole application.",
+              "Applied Ajax on loading resume JSON data at App launched.",
+              "Achieved responsive layout for desktop and mobile screens.",
+              "Constructed the application with Header, About, Resume, Portfolio, and Footer sections.",
+              "Created multi-tabs layout with extensive reusability and parsed complex json data and feed in views.",
+              "Implemented multi-tabs layout with extensive reusability and parse complex json data and feed in views.",
+              "Implemented highlight current section in header by dynamically changing CSS via JavaScript."
+            ]
+          },
+          {
+            "company": "Food Order System",
+            "title": "VS Code | Firebase db, Hooks, RESTful API, Error Handling",
+            "years": "",
+            "description": "",
+            "highlights": [
+              "Adopted Firebase Realtime Database as data container and server.",
+              "Fetched menu data from the database at app launch.",
+              "Posted and saved orders to the database via RESTful POST method.",
+              "Managed the view state when processing network request.",
+              "Handled network errors by showing an error message on screen.",
+              "Utilized useContext and useReducer to manage view state and data in the app."
+            ]
           },
           {
             "company": "Travel Website",
-            "title": "React Developer",
-            "years": "Mar. 2020 - Jun. 2020",
-            "description": "(Placeholder)"
+            "title": "VS Code | Functional Components, Responsive layout",
+            "years": "",
+            "description": "",
+            "highlights": [
+              "Built project with functional components.",
+              "Adopted React Router for the navigation in header. ",
+              "Achieved responsive layout for desktop and mobile screens",
+              "Displayed a video media in the background"
+            ]
           },
           {
-            "company": "Expense Tracker Website",
-            "title": "React Developer",
-            "years": "Mar. 2021 - Jun. 2021",
-            "description": "(Placeholder)"
+            "company": "Expenses Tracker",
+            "title": "VS Code | Hooks, Form, State management",
+            "years": "",
+            "description": "",
+            "highlights": [
+              "Built project with functional components.",
+              "Structured project with a clear folder structure.",
+              "Updated view state by adopting useState in Hooks.",
+              "Passed and managed data in a relatively complicated view.",
+              "Handled user interactions and updated the application accordingly."
+            ]
+          },
+          {
+            "company": "Authentication System",
+            "title": "VS Code | React Router, RESTful GET and POST, CSS Modules Stylesheet",
+            "years": "",
+            "description": "",
+            "highlights": [
+              "Authenticated a user from Google Auth via RESTful API POST method.",
+              "Adopted React Router to manage navigations in the app.",
+              "Applied useContext to manage auth information, log in and log out.",
+              "Applied useRef to obtain user input in real-time.",
+              "Created authentication form by using HTML form tag.",
+              "Adopted CSS Modules Stylesheet to manage scoped CSS.",
+              "Adopted Fragments to efficiently return multiple contents."
+            ]
           }
         ]
       },
@@ -104,15 +171,40 @@
         "works": [
           {
             "company": "Lucretia Lighting",
-            "title": "Head of accounting",
+            "title": "Accountant",
             "years": "Sep. 2019 - Present",
-            "description": "(Placeholder)"
+            "description": "",
+            "highlights": [
+              "Prepared and analyse accounting reports accurately on a monthly, quarterly basis to managing director.",
+              "Managed daily operation of AR, AP and bank transactions and investigated discrepancies when they occur.",
+              "Ensured compliance with accounting deadlines (extended suppliers’ credit period from 60 days to 90 days).",
+              "Process payroll for around 30+ employees including full-time employees, causal and sub-contractors.",
+              "Examined operating costs and reduced company running costs by 16%.",
+              "Prepared and generated bank reconciliation, assets accounting, budgeting monthly and presented to the management team.",
+              "Prepared and generated bank reconciliation, assets accounting, budgeting monthly and presented to the management team.",
+              "Responded promptly to external parties by email or by phone."
+            ]
           },
           {
-            "company": "Mitchell Wilson (Intern)",
-            "title": "Accounting/Payroll",
+            "company": "Mitchell Wilson & Partners Accounting",
+            "title": "Tax Accountant",
             "years": "Aug. 2018 - Dec. 2018",
-            "description": "(Placeholder)"
+            "description": "A mid-tier Chartered Accounting firm providing tax consulting services",
+            "highlights": [
+              "Accurately prepared tax returns for individual, company, partnership, and trust for 16 clients.",
+              "Prepared and analysed BAS, taxation statement, and financial reports.",
+              "Regularly reviewed and updated Excel work file templates in OfficeTech to increase productivity."
+            ]
+          },
+          {
+            "company": "Bank of China",
+            "title": "Bank Teller",
+            "years": "Jul. 2016 - Feb. 2017",
+            "description": "",
+            "highlights": [
+              "Worked with customers daily, meeting their banking needs and either answering or referring their financial questions to the right supervisory individuals.",
+              "Managed client relationships by communicating updates and liaising with senior management."
+            ]
           }
         ]
       },
@@ -122,8 +214,22 @@
           {
             "company": "University of Melbourne",
             "title": "Student Ambassador",
-            "years": "Feb. 2019 - Nov. 2019",
-            "description": "Provided a guided tour of the main campus as a part of faculty orientation, building rapport with new students"
+            "years": "Feb. 2019 - Jul. 2019",
+            "description": "",
+            "highlights": [
+              "Provided a guided tour of the main campus as a part of faculty orientation, building rapport with new students.",
+              "Gave speeches to over 200 new students about sharing my own studying experience to help them prepare for their upcoming study."
+            ]
+          },
+          {
+            "company": "Northeast Agricultural University",
+            "title": "President of Student Union",
+            "years": "Sep. 2015 - Jun. 2016",
+            "description": "",
+            "highlights": [
+              "Organized three competitions and five entertainment shows and received good feedback from students.",
+              "Tackled problems in the daily operation of the union and promoted club activities."
+            ]
           }
         ]
       }
@@ -131,32 +237,38 @@
     "skills": [
       {
         "category": "UI Development",
-        "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+        "skillmessage": "",
         "skills": [
           "HTML5",
           "CSS",
           "JavaScript",
           "Reactjs",
-          "Git",
           "Hooks",
-          "Redux",
-          "Nodejs"
+          "JSON",
+          "RESTful",
+          "MySQL",
+          "Git",
+          "Agile"
         ]
       },
       {
         "category": "Data Analysis",
-        "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+        "skillmessage": "",
         "skills": [
           "Tableau",
-          "MySQL"
+          "MySQL",
+          "Microsoft Office suite"
         ]
       },
       {
         "category": "Accounting",
-        "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+        "skillmessage": "",
         "skills": [
-          "Excel",
-          "Xero"
+          "MYOB",
+          "Xero",
+          "Tableau",
+          "QuickBooks",
+          "Microsoft Office suite"
         ]
       }
     ]
@@ -164,15 +276,27 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Food Order System",
+        "category": "The project I've built by following Udemy React full course.",
+        "image": "food-order-sys.jpg",
+        "url": "https://github.com/FancyGrace/food-order-system"
+      },
+      {
+        "title": "Travel Website",
+        "category": "The project I've built by following a tutorial on YouTube.",
+        "image": "travel-website.jpg",
+        "url": "https://github.com/FancyGrace/Travel-Website"
+      },
+      {
         "title": "Online Resume",
         "category": "A online resume project I've built by following a resume project with some changes to fit my needs.",
         "image": "online-resume.jpg",
         "url": "https://github.com/FancyGrace/Online-Resume"
       },
       {
-        "title": "Travel Website",
-        "category": "The project I've built by following a tutorial.",
-        "image": "travel-website.jpg",
+        "title": "Auth System",
+        "category": "The project I've built by following Udemy React full course.",
+        "image": "auth-sys.jpg",
         "url": ""
       },
       {

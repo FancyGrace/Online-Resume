@@ -314,6 +314,11 @@ ul#nav li.current a {
   padding-bottom: 24px;
   border-bottom: 1px solid #e8e8e8;
 }
+
+#resume .work-section {
+  margin-bottom: 30px;
+}
+
 #resume .info {
   font: 16px/24px "librebaskerville-italic", serif;
   color: #6e7881;
@@ -324,6 +329,17 @@ ul#nav li.current a {
   margin-right: 5px;
   margin-left: 5px;
 }
+#resume .desc {
+  margin-bottom: 18px;
+}
+#resume .highlight {
+  list-style: circle inside;
+}
+
+#resume .highlight li {
+  margin-bottom: 15px;
+}
+
 #resume .date {
   font: italic 15px/24px "opensans-regular", sans-serif;
   margin-top: 6px;
