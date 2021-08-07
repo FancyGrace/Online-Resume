@@ -27,11 +27,11 @@
       "A UI Developer",
       "An Accountant"
     ],
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1rpc4zx2GYOBFN4_LsMuWGtvIGTbMofe4/view?usp=sharing",
     "messages": [
       {
         "title": "About Me",
-        "content": "An enthusiastic and positive quick learner with two years of commercial accounting experience and one year of studying software development, including HTML5, CSS, JavaScript and React. Fully equipped with knowledge of UI development and management as well as Agile and Git. I am looking to secure a Junior Developer role in a market-leading company where I can bring value to the business and is willing to witness my growth."
+        "content": "An enthusiastic and positive quick learner with two years of commercial accounting experience and six months of studying software development, including HTML5, CSS, JavaScript and React. Fully equipped with knowledge of UI development and management as well as Agile and Git. I am looking to secure a Junior Developer position in a market-leading company that is willing to witness my growth and I can bring value to the company."
       },
       {
         "title": "Motivation",
@@ -105,9 +105,8 @@
               "Applied Ajax on loading resume JSON data at App launched.",
               "Achieved responsive layout for desktop and mobile screens.",
               "Constructed the application with Header, About, Resume, Portfolio, and Footer sections.",
-              "Created multi-tabs layout with extensive reusability and parsed complex json data and feed in views.",
-              "Implemented multi-tabs layout with extensive reusability and parse complex json data and feed in views.",
-              "Implemented highlight current section in header by dynamically changing CSS via JavaScript."
+              "Created multi-tabs layout with extensive reusability and parsed complicated JSON and fed in views",
+              "Implemented highlighting current section in header by dynamically changing CSS via JavaScript."
             ]
           },
           {
@@ -117,7 +116,8 @@
             "description": "",
             "highlights": [
               "Adopted Firebase Realtime Database as data container and server.",
-              "Fetched menu data from the database at app launch.",
+              "Fetched a menu data from the database at app launch.",
+              "Implemented validation of the order form before submitting.",
               "Posted and saved orders to the database via RESTful POST method.",
               "Managed the view state when processing network request.",
               "Handled network errors by showing an error message on screen.",
@@ -243,12 +243,14 @@
           "CSS",
           "JavaScript",
           "Reactjs",
+          "TypeScript",
           "Hooks",
           "JSON",
           "RESTful",
           "MySQL",
           "Git",
-          "Agile"
+          "Agile",
+          "Sourcetree"
         ]
       },
       {

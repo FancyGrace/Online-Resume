@@ -7,6 +7,7 @@ class About extends Component {
             var name = this.props.data.name
             var profileImage = "images/" + this.props.data.profileImage
             var occupations = this.props.data.occupations
+            var resumeURL = this.props.data.resumedownload
             var messages = this.props.data.messages.map((message) =>
                 <div>
                     <h2>{message.title}</h2>
@@ -37,7 +38,7 @@ class About extends Component {
                             </div>
 
                             <div className="columns download">
-                                <p><a href="/#" className="button"><i className="fas fa-download"></i>Download Resume</a></p>
+                                <p><a href={resumeURL} className="button"><i className="fas fa-download"></i>Download Resume</a></p>
                             </div>
                         </div>
                     </div>
