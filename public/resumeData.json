@@ -243,7 +243,6 @@
           "CSS",
           "JavaScript",
           "Reactjs",
-          "TypeScript",
           "Hooks",
           "JSON",
           "RESTful",
@@ -299,7 +298,7 @@
         "title": "Auth System",
         "category": "The project I've built by following Udemy React full course.",
         "image": "auth-sys.jpg",
-        "url": ""
+        "url": "https://github.com/FancyGrace/Auth-System"
       },
       {
         "title": "Expense Tracker",
