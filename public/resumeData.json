@@ -36,10 +36,6 @@
       {
         "title": "Motivation",
         "content": "Two years of working as an accountant make me a detail-focused person, however, this is not all of me. Excellent problem-solving skills, embracing challenges, and being keen to learn new things are also my parts. Software development provides me a chance to work with a group of innovative and talented people, it also brings me an opportunity to demonstrate more personalities of mine and make it shine."
-      },
-      {
-        "title": "",
-        "content": "Never stop learning and pursuing your interests and dreams."
       }
     ]
   },
@@ -79,7 +75,7 @@
             "degree": "Master of Management (Accounting)",
             "from": "Feb. 2017",
             "to": "Jul. 2019",
-            "description": "Relevant Coursework: Taxation, Auditing, Financial Accounting"
+            "description": ""
           },
           {
             "school": "Northeast Agricultural University",
@@ -125,6 +121,21 @@
             ]
           },
           {
+            "company": "Authentication System",
+            "title": "VS Code | React Router, RESTful GET and POST, CSS Modules Stylesheet",
+            "years": "",
+            "description": "",
+            "highlights": [
+              "Authenticated a user from Google Auth via RESTful API POST method.",
+              "Adopted React Router to manage navigations in the app.",
+              "Applied useContext to manage auth information, log in and log out.",
+              "Applied useRef to obtain user input in real-time.",
+              "Created authentication form by using HTML form tag.",
+              "Adopted CSS Modules Stylesheet to manage scoped CSS.",
+              "Adopted Fragments to efficiently return multiple contents."
+            ]
+          },
+          {
             "company": "Travel Website",
             "title": "VS Code | Functional Components, Responsive layout",
             "years": "",
@@ -148,21 +159,6 @@
               "Passed and managed data in a relatively complicated view.",
               "Handled user interactions and updated the application accordingly."
             ]
-          },
-          {
-            "company": "Authentication System",
-            "title": "VS Code | React Router, RESTful GET and POST, CSS Modules Stylesheet",
-            "years": "",
-            "description": "",
-            "highlights": [
-              "Authenticated a user from Google Auth via RESTful API POST method.",
-              "Adopted React Router to manage navigations in the app.",
-              "Applied useContext to manage auth information, log in and log out.",
-              "Applied useRef to obtain user input in real-time.",
-              "Created authentication form by using HTML form tag.",
-              "Adopted CSS Modules Stylesheet to manage scoped CSS.",
-              "Adopted Fragments to efficiently return multiple contents."
-            ]
           }
         ]
       },
@@ -170,17 +166,16 @@
         "category": "Accounting",
         "works": [
           {
-            "company": "Lucretia Lighting",
+            "company": "Lucretia Lighting Pty Ltd",
             "title": "Accountant",
-            "years": "Sep. 2019 - Present",
+            "years": "Jul. 2019 - Present",
             "description": "",
             "highlights": [
               "Prepared and analyse accounting reports accurately on a monthly, quarterly basis to managing director.",
               "Managed daily operation of AR, AP and bank transactions and investigated discrepancies when they occur.",
               "Ensured compliance with accounting deadlines (extended suppliers’ credit period from 60 days to 90 days).",
-              "Process payroll for around 30+ employees including full-time employees, causal and sub-contractors.",
+              "Process payroll for around 20+ employees including full-time employees, causal and sub-contractors.",
               "Examined operating costs and reduced company running costs by 16%.",
-              "Prepared and generated bank reconciliation, assets accounting, budgeting monthly and presented to the management team.",
               "Prepared and generated bank reconciliation, assets accounting, budgeting monthly and presented to the management team.",
               "Responded promptly to external parties by email or by phone."
             ]
