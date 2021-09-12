@@ -26,7 +26,7 @@ class Home extends Component {
 
         <div className="row banner" >
           <div className="banner-text">
-            <h1>Hello, world!</h1>
+            <h1>Grace Wu</h1>
             <h3> {briefing}</h3>
             <hr />
             <ul className="social">{networks}</ul>

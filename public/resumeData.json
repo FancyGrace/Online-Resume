@@ -1,6 +1,6 @@
 {
   "main": {
-    "briefing": "I’m a Melbourne based UI Developer and Accountant. Never stop learning and connecting the dots would bring me a beautiful life. ",
+    "briefing": "I’m a Melbourne based UI Developer. Never stop learning and connecting the dots would bring me a beautiful life. ",
     "website": "https://fancygrace.netlify.app",
     "social": [
       {
@@ -31,11 +31,11 @@
     "messages": [
       {
         "title": "About Me",
-        "content": "An enthusiastic and positive quick learner with two years of commercial accounting experience and six months of studying software development, including HTML5, CSS, JavaScript and React. Fully equipped with knowledge of UI development and management as well as Agile and Git. I am looking to secure a Junior Developer position in a market-leading company that is willing to witness my growth and I can bring value to the company."
+        "content": "A highly skilled and passionate Junior frontend developer is looking to move to the next chapter. Accomplished in building five frontend projects with the latest technologies, including ReactJS, Hooks, TypeScripts, Styled-Components, RESTful API, and Git version control system. Fully equipped with knowledge of frontend development lifecycle, project management, Jira, and Agile. I am looking to secure a challenging role in a market-leading company that is willing to witness my growth and I can bring value to the company."
       },
       {
         "title": "Motivation",
-        "content": "Two years of working as an accountant make me a detail-focused person, however, this is not all of me. Excellent problem-solving skills, embracing challenges, and being keen to learn new things are also my parts. Software development provides me a chance to work with a group of innovative and talented people, it also brings me an opportunity to demonstrate more personalities of mine and make it shine."
+        "content": "Accountant background makes me a detail-focused person, however, this is not all of me. Excellent problem-solving skills, embracing challenges, and being keen to learn new things are also my parts. Software development provides me a chance to work with a group of innovative and talented people, it also brings me an opportunity to demonstrate more personalities of mine and make it shine."
       }
     ]
   },
@@ -72,14 +72,14 @@
         "degrees": [
           {
             "school": "University of Melbourne",
-            "degree": "Master of Management (Accounting)",
+            "degree": "Master of Management",
             "from": "Feb. 2017",
             "to": "Jul. 2019",
             "description": ""
           },
           {
             "school": "Northeast Agricultural University",
-            "degree": "Bachelor of Engineering (Food Science)",
+            "degree": "Bachelor of Engineering",
             "from": "Sep. 2012",
             "to": "Jun. 2016",
             "description": "University scholarship in 2014, 2015, 2016 with GPA 85.6 (H1)"
@@ -91,6 +91,20 @@
       {
         "category": "UI Development",
         "works": [
+          {
+            "company": "React Developer",
+            "title": "Bank of China, 2020.11 to 2021.07",
+            "years": "",
+            "description": "",
+            "highlights": [
+              "Delivered an authentication feature by collaborating with designers and products.",
+              "Improved UX/UI by fixing the existing bugs and exploring potential issues.",
+              "Participated in daily scrum meetings, including standup, planning and retrospective.",
+              "Maintained an internal bank website in an Agile team.",
+              "Enrolled in and completed an internal training program.",
+              "Presented a knowledge sharing event about learning methods."
+            ]
+          },
           {
             "company": "Personal Resume",
             "title": "VS Code | React JS, jQuery, JSON, Ajax",
@@ -168,7 +182,7 @@
           {
             "company": "Lucretia Lighting Pty Ltd",
             "title": "Accountant",
-            "years": "Jul. 2019 - Present",
+            "years": "Jul. 2019 - Dec. 2019",
             "description": "",
             "highlights": [
               "Prepared and analyse accounting reports accurately on a monthly, quarterly basis to managing director.",
